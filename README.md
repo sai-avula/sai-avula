@@ -16,6 +16,7 @@
 <img align = "left" alt="Visual Studio Code" width="40px" src="https://www.pinclipart.com/picdir/middle/22-227350_service-manager-visualstudio-code-extension-icon-visual-studio.png" />
 <img align = "left" alt="Atom" width="40px" src="https://icon2.cleanpng.com/20180410/fpe/kisspng-atom-computer-icons-text-editor-electron-macos-github-5accac2c064a08.4880956715233628600258.jpg" />
 <img align = "left" alt="Sublime" width="40px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+<img align = "left" alt="Sublime" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/vim-2-1175074.png" />
 
 <br/>
 
