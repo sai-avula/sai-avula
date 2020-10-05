@@ -43,6 +43,11 @@
 ### Functional Languages -
 <img align = "left" alt="Haskell" width="40px" src="https://assets.exercism.io/tracks/haskell-bordered-turquoise.png" />
 <img align = "left" alt="F#" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" />
+
+
+<br/>
+
+-- BETA
 <img align = "left" alt="Scala" width="45px" src="https://sdtimes.com/wp-content/uploads/2018/04/scala.png" />
 <img align = "left" alt="OCaml" width="40px" src="https://lh3.googleusercontent.com/proxy/86qDW6qPv1o4Xjffjn_STPl0jmzDnRiEfkNJi1xAy4JafS6zQsuQPoTuF5tKvHITBUXuMpFAl3LcBf4RFH-DnULgz4ogUSUWBnkGq8-IAszPKrDBarr3QoqHhA" />
 
