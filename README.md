@@ -47,9 +47,12 @@
 
 <br/>
 
--- BETA
+#### BETA (in progress)
+<img align = "left" alt="Kotlin" width="45px" src="https://pbs.twimg.com/profile_images/699217734492647428/pCfEzr6L_400x400.png" />
+<img align = "left" alt="Dart" width="40px" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" />
 <img align = "left" alt="Scala" width="45px" src="https://sdtimes.com/wp-content/uploads/2018/04/scala.png" />
 <img align = "left" alt="OCaml" width="40px" src="https://lh3.googleusercontent.com/proxy/86qDW6qPv1o4Xjffjn_STPl0jmzDnRiEfkNJi1xAy4JafS6zQsuQPoTuF5tKvHITBUXuMpFAl3LcBf4RFH-DnULgz4ogUSUWBnkGq8-IAszPKrDBarr3QoqHhA" />
+<img align = "left" alt="Go" width="45px" src="https://sdtimes.com/wp-content/uploads/2018/02/golang.sh_-490x490.png" />
 
 
 <br/>
