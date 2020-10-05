@@ -31,7 +31,7 @@
 <br/>
 
 ### Object-Oriented Languages -
-<img align = "left" alt="C++" width="40px" src="https://www.mvps.net/docs/wp-content/uploads/2019/07/c.png" />
+<img align = "left" alt="C++" width="36px" src="https://www.mvps.net/docs/wp-content/uploads/2019/07/c.png" />
 <img align = "left" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
 <img align = "left" alt="Java" width="43px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />
 <img align = "left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
