@@ -20,6 +20,13 @@
 
 <br/>
 
+## Languages
+### Scripting Languages - 
+<img align = "left" alt="HTML" width="40px" src="https://www-cdn.writeraccess.com/wp-content/uploads/2014/08/blog-html-5.png" />
+<img align = "left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+
+<br/>
+### Object-Oriented
 ### Connect with me: [<img align = "center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/saiavula
