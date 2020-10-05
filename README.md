@@ -23,8 +23,12 @@
 ### Scripting Languages - 
 <img align = "left" alt="HTML" width="40px" src="https://www-cdn.writeraccess.com/wp-content/uploads/2014/08/blog-html-5.png" />
 <img align = "left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-<img align = "left" alt="JavaScript" width="30px" src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg" />
+<img align = "left" alt="JavaScript" width="40px" src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg" />
+
+
 <br/>
+
+
 ### Object-Oriented
 <br/>
 ### Connect with me: [<img align = "center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
