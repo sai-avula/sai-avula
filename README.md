@@ -38,14 +38,19 @@
 <img align = "left" alt="R" width="40px" src="https://www.r-project.org/Rlogo.png" />
 
 
+
 <br/>
+
 
 ### Functional Languages -
 <img align = "left" alt="Haskell" width="40px" src="https://assets.exercism.io/tracks/haskell-bordered-turquoise.png" />
 <img align = "left" alt="F#" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" />
 
 
+
 <br/>
+
+
 
 #### BETA (in progress)
 <img align = "left" alt="Kotlin" width="45px" src="https://pbs.twimg.com/profile_images/699217734492647428/pCfEzr6L_400x400.png" />
