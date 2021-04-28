@@ -1,7 +1,7 @@
 
 ### Hiya Developers, I'm Sai. 👋 👨🏻‍🎓
 
-## I'm an undergraduate studying Computer Science @ Loughborough University 🏫
+## I'm an undergraduate studying Computer Science
 
 - 📚 Currently learning F# and the SAFE Stack
 - 🤝🏻 Looking to collaborate with fellow developers
